@@ -51,6 +51,7 @@ Amazon S3 (Simple Storage Service) provides a simple and cost-effective way to h
 
 5. **Access the Website**
    - Use the **S3 Static Website Endpoint** to view your hosted website.
+   - # http://cloudresume2025.s3-website-us-east-1.amazonaws.com/
 
 ## 🌐 Live Demo
  See in screenshots folder
